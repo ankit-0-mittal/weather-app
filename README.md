@@ -24,6 +24,20 @@ This Weather Dashboard application provides current weather information and fore
 - Uses OpenWeatherMap API for weather data.
 - Modular components for easy maintenance and extension.
 
+## Running the Application
+
+To install the required modules, run:
+
+```
+npm i
+```
+
+To start the development server, run:
+
+```
+npm run dev
+```
+
 ## Testing
 
 - Ensure the temperature toggle switch updates the temperature display correctly.
